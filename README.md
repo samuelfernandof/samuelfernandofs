@@ -1,5 +1,5 @@
 <h1 align="center">Welcome, I'm Samuel Fernando</h1>
-<h3 align="center">Quantum Data Engineer</h3>
+<h3 align="center">Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelfernandos&label=Profile%20views&color=0e75b6&style=flat" alt="samuelfernandos" /> </p>
 
