@@ -1,3 +1,4 @@
+ <img align="right" alt="Coding" width="400" src="add your link here">
 <h1 align="center">Welcome, I'm Samuel Fernando</h1>
 <h3 align="center">Data Engineer</h3>
 
