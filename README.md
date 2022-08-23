@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/samuelfernandos](https://github.com/samuelfernandos)
 
-- 📝 I regularly write articles on [https://git.samuelfernando.com.br/](https://git.samuelfernando.com.br/)
+- 📝 I regularly write articles on [https://git.samuelfernando.com.br/](http://bio.samuelfernando.com.br/)
 
 - 📫 How to reach me **samuel.fernando@ufabc.edu.br**
 
