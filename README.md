@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelfernandos&label=Profile%20views&color=0e75b6&style=flat" alt="samuelfernandos" /> </p>
 
-- 🔭 I’m currently working on [Data & Analytics tools and Quantum Computing](https://blueshift.com.br/?id=servicos)
+- 🔭 I’m currently working on [Data, Generative AI and Quantum Computing](https://blueshift.com.br/?id=servicos)
 
 - 🌱 I’m currently learning **Quantum Computing & Quantum Machine Learning**
 
-- 👯 I’m looking to collaborate on [Computational neuroscience](https://bv.fapesp.br/pt/auxilios/96019/computando-linguagem-com-neuronios-espelho/)
+- 👯 I’m collaborated on [Computational neuroscience](https://bv.fapesp.br/pt/auxilios/96019/computando-linguagem-com-neuronios-espelho/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/samuelfernandos](https://github.com/samuelfernandos)
 
