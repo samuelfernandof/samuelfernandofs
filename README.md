@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelfernandos&label=Profile%20views&color=0e75b6&style=flat" alt="samuelfernandos" /> </p>
 
-- 🔭 I’m currently working on [Data Science, Generative AI and Quantum Computing](https://blueshift.com.br/?id=servicos)
+- 🔭 I’m currently working on [Data Science, Generative AI and Quantum Computing](https://dobslit.com/en/)
 
-- 🌱 I’m currently M.Sc Student in **Quantum Computing** at University of Sao Paulo
+- 👨‍🎓 M.Sc Student in **Complex Systems Modeling** at [University of Sao Paulo](https://sites.usp.br/scx/).
 
 - 👯 Also, I collaborated on [Computational neuroscience](https://bv.fapesp.br/pt/auxilios/96019/computando-linguagem-com-neuronios-espelho/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/samuelfernandos](https://github.com/samuelfernandos)
+- 👨‍💻 All of my projects are available at [https://github.com/samuelfernandofs](https://github.com/samuelfernandofs)
 
 - 📝 I regularly write articles on [https://git.samuelfernando.com.br/](http://bio.samuelfernando.com.br/)
 
