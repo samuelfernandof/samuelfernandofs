@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelfernandos&label=Profile%20views&color=0e75b6&style=flat" alt="samuelfernandos" /> </p>
 
-- 🔭 I’m currently working on [Data, Generative AI and Quantum Computing](https://blueshift.com.br/?id=servicos)
+- 🔭 I’m currently working on [Data Science, Generative AI and Quantum Computing](https://blueshift.com.br/?id=servicos)
 
 - 🌱 I’m currently learning **Quantum Computing & Quantum Machine Learning**
 
