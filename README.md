@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Data Science, Generative AI and Quantum Computing](https://blueshift.com.br/?id=servicos)
 
-- 🌱 I’m currently learning **Quantum Computing & Quantum Machine Learning**
+- 🌱 I’m currently M.Sc Student in **Quantum Computing** at University of Sao Paulo
 
-- 👯 I’m collaborated on [Computational neuroscience](https://bv.fapesp.br/pt/auxilios/96019/computando-linguagem-com-neuronios-espelho/)
+- 👯 Also, I collaborated on [Computational neuroscience](https://bv.fapesp.br/pt/auxilios/96019/computando-linguagem-com-neuronios-espelho/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/samuelfernandos](https://github.com/samuelfernandos)
 
